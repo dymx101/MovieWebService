@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9010821F18FC088910FEBFE802F473AB55F359B2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "49FC83D50F9E3A171ABD5C1ACBA392BECCCD2D0C" : 0,
+    "9010821F18FC088910FEBFE802F473AB55F359B2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E714A164-2AD3-4C99-ABFF-45FD7DEBD739",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "49FC83D50F9E3A171ABD5C1ACBA392BECCCD2D0C" : "",
+    "9010821F18FC088910FEBFE802F473AB55F359B2" : "moviewebservice\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MovieWebService",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MovieWebService.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dymx101\/MovieWebService.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "49FC83D50F9E3A171ABD5C1ACBA392BECCCD2D0C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:michaeltansg\/moviewebservice.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9010821F18FC088910FEBFE802F473AB55F359B2"
+    }
+  ]
+}

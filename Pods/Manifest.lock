@@ -1,0 +1,27 @@
+PODS:
+  - Expecta (1.0.3)
+  - Mantle (2.0.5):
+    - Mantle/extobjc (= 2.0.5)
+  - Mantle/extobjc (2.0.5)
+  - ReactiveCocoa (2.4.7):
+    - ReactiveCocoa/UI (= 2.4.7)
+  - ReactiveCocoa/Core (2.4.7):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.4.7)
+  - ReactiveCocoa/UI (2.4.7):
+    - ReactiveCocoa/Core
+  - Specta (1.0.4)
+
+DEPENDENCIES:
+  - Expecta (~> 1.0.3)
+  - Mantle (~> 2.0.4)
+  - ReactiveCocoa (~> 2.4.7)
+  - Specta (~> 1.0.4)
+
+SPEC CHECKSUMS:
+  Expecta: 9d1bff6c8b0eeee73a166a2ee898892478927a15
+  Mantle: 1912395033f601de5adc8ee91e48f46e4c7051ad
+  ReactiveCocoa: eb38dee0a0e698f73a9b25e5c1faea2bb4c79240
+  Specta: 69bb134672aae190a1379ff91df07dad8dd1f869
+
+COCOAPODS: 0.39.0
